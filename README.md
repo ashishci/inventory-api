@@ -1,2 +1,3 @@
 # inventory-api
-returns inventory data  using gql
+
+returns inventory data using gql
